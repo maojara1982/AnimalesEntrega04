@@ -94,3 +94,5 @@ console.log(Animales.obtenerAnimalesPorTipo("mamiferos"));
 
 console.log("\nAnimales que empiezan con 'A':");
 console.log(Animales.obtenerAnimalesPorLetraInicial("A"));
+
+console.log("Fin de trabajo");
